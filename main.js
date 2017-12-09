@@ -1,4 +1,4 @@
-
+var Word = require('./word.js')
 var prompt = require('prompt');
 
 console.log("Welcome to Hangman!");
